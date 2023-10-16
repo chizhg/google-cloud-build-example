@@ -22,3 +22,5 @@ As soon as I pushed a commit to GitHub I can see the build
 
 [renovate-badge]: https://img.shields.io/badge/renovate-app-blue.svg
 [renovate-app]: https://renovateapp.com/
+
+------
